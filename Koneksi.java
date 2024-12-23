@@ -11,7 +11,7 @@ public class Koneksi {
     private final static String username = "root";  //username database
     private final static String password = ""; //password database
 
-    //method Untuk melakukan koneksi ke database
+    //constructor Untuk melakukan koneksi ke database
     public Koneksi(){
         try {
             
